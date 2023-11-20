@@ -14,7 +14,7 @@ body {
 .intro-image {
     background-attachment: fixed;
     height: 600px;
-    background-image: url('/img/pic1.jpeg');
+    background-image: url('../img/pic1.jpeg');
     background-position: top;
     background-size: cover;
     display: flex;
@@ -77,7 +77,7 @@ body {
 
 .packaging-image {
     background-attachment: fixed;
-    background-image: url('/img/pic2.jpeg');
+    background-image: url('../img/pic2.jpeg');
     background-size: cover;
     background-position: bottom;
     height: 450px;
@@ -140,7 +140,7 @@ body {
 
 .tutorials-image {
     background-attachment: fixed;
-    background-image: url('/img/pic3.webp');
+    background-image: url('../img/pic3.webp');
     background-size: cover;
     background-position: bottom;
     height: 450px;
